@@ -57,4 +57,4 @@ Yitaku is a full-featured Airbnb-style property booking app offering a seamless,
 
 ## 🎥 App Walkthrough Video
 
-![Yitaku Demo](assets/yitaku-demo.gif)
+![Yitaku Demo](videoplayback.gif)
